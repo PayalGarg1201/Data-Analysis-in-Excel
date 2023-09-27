@@ -29,6 +29,48 @@ Formulas Used :
 
 
 
+In the second part of this Project i have tried to answer the below questions : 
+
+
+<img width="489" alt="image" src="https://github.com/PayalGarg1201/Data-Analysis-in-Excel/assets/133757186/00d5400e-8e18-4d6e-bf48-fc648c7e7df3">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
