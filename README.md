@@ -9,6 +9,7 @@ I have tried to answer the below Business Questions :
 
 
 
+
 <img width="581" alt="image" src="https://github.com/PayalGarg1201/Data-Analysis-in-Excel/assets/133757186/6e3b15b9-05ee-4a51-bcfa-fbdc51b05b62">
 
 
