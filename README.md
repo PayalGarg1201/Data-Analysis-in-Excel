@@ -67,8 +67,6 @@ Learning basic Statictics : Mean, Median, Quartiles, Range
 
 
 
-
-
 In this project Data Analysis is done by using :
 
 Excel Formulas, Exploratory Data Analysis (EDA) with Conditional Formating, Pivot Table, Slicers, Anamolies (charts in Excel), visualization in Excel.
