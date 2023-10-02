@@ -98,6 +98,60 @@ Excel Formulas, Exploratory Data Analysis (EDA) with Conditional Formating, Pivo
 
 
 
+<img width="547" alt="image" src="https://github.com/PayalGarg1201/Data-Analysis-in-Excel/assets/133757186/f69fd355-a5fc-4a80-bb46-8871ef857d8d">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="635" alt="image" src="https://github.com/PayalGarg1201/Data-Analysis-in-Excel/assets/133757186/6a616d87-043e-4960-ae33-c0e3d16b4f1c">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
