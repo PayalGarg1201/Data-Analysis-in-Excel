@@ -3,7 +3,7 @@ Excel Projects
 
 In this project i have solved Business Questions in Excel for Data Analysis and also tried to use the basic Excel formulas used for Data Analysis. 
 
-The Dataset for this project is 'Awesome Chocolate' (chocolate Factory Dataset) taken from Chandoo.org (You tube channel) as a part of his Excel learning course for Data Analysis.
+The Dataset for this project is 'Awesome Apps' ( Apps Dataset) taken from Chandoo.org (You tube channel) as a part of his Excel learning course for Data Analysis.
 
 I have tried to answer the below Business Questions : 
 
