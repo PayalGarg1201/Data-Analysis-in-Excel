@@ -29,6 +29,10 @@ Formulas Used :
 
 
 
+
+
+The Excel sheet of this project is attached in the project material.
+
 In the second part of this Project i have tried to answer the below questions : 
 
 
@@ -67,7 +71,7 @@ Learning basic Statictics : Mean, Median, Quartiles, Range
 
 
 
-In this project Data Analysis is done by using :
+Attaching one more Excel project in this folder performing Data Analysis, EDA to create visualization is done by using :
 
 Excel Formulas, Exploratory Data Analysis (EDA) with Conditional Formating, Pivot Table, Slicers, Anamolies (charts in Excel), visualization in Excel.
 
